@@ -3,7 +3,7 @@ layout: default
 overview: true
 ---
 
-![in Halle](pictures/20160501_175637.jpg?raw=true)
+![in Halle](pictures/inscheune.jpg?raw=true)
 
 ## Technische Daten
 * Baujahr: 1971
