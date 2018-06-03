@@ -4,18 +4,18 @@ title: Mehr
 permalink: /more/
 ---
 
-* [Teilekatalog](http://de.bmwfans.info/vin/decoder?vin=DH38229)
-* [Linksammlung](http://www.7-forum.com/links/index1.php?site=vcat&cat=4)
-* [Beschreibung E38](http://www.7-forum.com/modelle/e38/)
+### Links
+* [E3 Club](http://bmw-e3-club.de/)
+* [Wikipedia](https://de.wikipedia.org/wiki/BMW_E3)
+* [Fahrgestellnummern](http://bmw-e3-club.de/fahrgestellnummern/)
 
 ### Geschichte
-
-### Links
 
 ### FAQ
 
 ### Diebstähle in Hamburg
 
 ## Reparaturanleitung
+
 ### Fahrwerk
 ### Teile
