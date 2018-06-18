@@ -35,3 +35,19 @@ permalink: /maintenance/
 ### 16.06.2018 Neuer Aschenbecher hinten rechts
 
 ### 14.06.2018 Radkappen und Zierringe gereinigt
+
+### 10.06.2018 Überführung nach Hamburg
+
+### 09.06.2018 Überführung nach Niedermittlau
+
+### 08.06.2018 Reifen gefüllt mit 1,5 bar
+
+### 08.06.2018 Räder gängig gemacht
+
+### 08.06.2018 Fahrgastzelle geöffnet
+
+### 07.06.2018 Reifen gefüllt mit 1,0 bar
+
+
+
+
