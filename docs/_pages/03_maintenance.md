@@ -4,6 +4,18 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 20.06.2018 20l Benzin und Bleiersatz eingefüllt
+
+### 20.06.2018 Batterie eingebaut
+
+### 20.06.2018 Batteriehalter gegen Rost geschützt
+
+### 20.06.2018 Schaltknauf ersetzt
+
+### 20.06.2018 Scheibenwischer erneuert
+
+### 20.06.2018 Luftfiltergehäuse demontiert
+
 ### 18.06.2018 Luftfilterdeckel gereinigt
 
 ### 18.06.2018 Scheibenwischerblätter demontiert da Gummi defekt
