@@ -13,6 +13,7 @@ permalink: /more/
 * [Wikipedia](https://de.wikipedia.org/wiki/BMW_E3)
 * [Fahrgestellnummern](http://bmw-e3-club.de/fahrgestellnummern/)
 * [Vergaser Zenith 34/40 INAT](http://www.senatorman.de/vergaser_3540inat.htm)
+* [Vergaser Zenith 34/40 INAT pdf](http://www.strichacht-forum.de/knowhow-v2/images/e/e9/ZENITH_VERGASER_BESCHREIBUNG.pdf)
 
 ### Geschichte
 
