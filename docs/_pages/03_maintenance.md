@@ -4,6 +4,12 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 04.07.2018 Lenkradschloss ausgebaut
+
+### 01.07.2018 Vakuumschlauch zu Verteiler ersetzt
+
+### 30.06.2018 Alle Bremssättel abgebaut
+
 ### 20.06.2018 20l Benzin und Bleiersatz eingefüllt
 
 ### 20.06.2018 Batterie eingebaut
