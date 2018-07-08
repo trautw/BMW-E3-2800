@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 07.07.2018 Vorne Brenssättel, Beläge, Bremsscheiben und eine Bremsleitung neu
+
 ### 04.07.2018 Lenkradschloss ausgebaut
 
 ### 01.07.2018 Vakuumschlauch zu Verteiler ersetzt
