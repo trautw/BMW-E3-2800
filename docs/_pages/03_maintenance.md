@@ -4,6 +4,20 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 16.09.2018 Glas Rücklicht links geklebt
+
+### 16.09.2018 Bremsschläuche und teilweise Bremsleitungen ersetzt
+
+### 16.09.2018 Lampe Fernlicht rechts und Armaturenbrett Fernlicht Lampe ersetzt
+
+### 12.09.2018 GTÜ
+
+### 10.09.2018 Schleifring Hupe repariert
+
+### Reifen ersetzt
+
+### Auspuff ersetzt
+
 ### 07.07.2018 Vorne Bremssättel, Beläge, Bremsscheiben und eine Bremsleitung neu
 
 ### 04.07.2018 Lenkradschloss ausgebaut
