@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 21.09.2018 Hauptbremszylinder getauscht
+
 ### 16.09.2018 Glas Rücklicht links geklebt
 
 ### 16.09.2018 Bremsschläuche und teilweise Bremsleitungen ersetzt
