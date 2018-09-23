@@ -20,6 +20,9 @@ permalink: /more/
 ### Clubs
 * [E3 Club](http://bmw-e3-club.de/)
 
+### Liebhaber
+* [Niederlande](http://www.helemaalbmw.nl/bmw%20e3.htm)
+
 ### Infos
 * [Wikipedia](https://de.wikipedia.org/wiki/BMW_E3)
 * [Fahrgestellnummern](http://bmw-e3-club.de/fahrgestellnummern/)
