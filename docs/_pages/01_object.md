@@ -4,7 +4,7 @@ title: Fahrzeughistorie
 permalink: /object/
 ---
 
-### 05.06.1973 Produkjtionsdatum laut BMW
+### 05.06.1973 Produktionsdatum laut BMW
 
 ### 07.06.1973 Auslieferung an Händler
 
