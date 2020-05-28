@@ -12,5 +12,7 @@ Die Intern als E3 bezeichnete Oberklasse-BMW kamen 1968 auf den Markt und folgte
 
 Zunächst als 2500 mit 2,5 Ltr. Motor auf den Markt gebracht, folgten schnell weitere Varainten mit 2,8 und 3,0 Ltr. Hubraum.
 
+Der Nachfolger des E3 war die im Mai 1977 vorgestellte erste 7er-Reihe vom Typ E23.
+
 * [Wikipedia](https://de.wikipedia.org/wiki/BMW_E3)
 
