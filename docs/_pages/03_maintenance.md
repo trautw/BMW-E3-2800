@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 25.04.2020 Ölwechsel 15W-40 HELIX HX5
+
 ### 21.09.2018 Hauptbremszylinder getauscht
 
 ### 16.09.2018 Glas Rücklicht links geklebt
