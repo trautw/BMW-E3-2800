@@ -34,6 +34,7 @@ permalink: /more/
 * [Vergaser Zenith 34/40 INAT](http://www.senatorman.de/vergaser_3540inat.htm)
 * [Vergaser Zenith 34/40 INAT pdf](http://www.strichacht-forum.de/knowhow-v2/images/e/e9/ZENITH_VERGASER_BESCHREIBUNG.pdf)
 * [Ölpumpe](https://www.p-m-tec.de/)
+* [Motor](http://www.7-forum.com/forum/showthread.html?t=190828)
 
 ### Geschichte
 
