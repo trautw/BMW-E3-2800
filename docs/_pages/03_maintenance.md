@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 25.07.2022 Hagemann Vorderreifen Yokohama EUR 198,00
+
+### 07.2020 Ventile eingestellt
+
 ### 25.04.2020 Ölwechsel 15W-40 HELIX HX5
 
 ### 21.09.2018 Hauptbremszylinder getauscht
