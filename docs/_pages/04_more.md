@@ -6,6 +6,7 @@ permalink: /more/
 
 ### Content
 * [Shannon Club TV](https://www.shannons.com.au/club/video/shannons-club-tv/bmw-new-six-shannons-club-tv-episode-121/)
+* [On YouTube](https://www.youtube.com/watch?v=wkrzO2U4vo4&list=RDCMUCuT1SuaJ5UucQDr0-39haag)
 
 ### Shops
 * [Wallothnesch](https://www.wallothnesch.com/)
