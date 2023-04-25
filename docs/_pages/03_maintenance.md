@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 22.04.2023 macOIL Ölwechsel und Ölfilter, 15W-40 HELIX HX5, EUR 50,00
+
+### 22.04.2023 TÜV Hanse Nachprüfung, km 66349
+
 ### 25.07.2022 Hagemann Vorderreifen Yokohama EUR 198,00
 
 ### 07.2020 Ventile eingestellt
